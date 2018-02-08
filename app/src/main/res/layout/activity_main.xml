@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#e6b6f0"
+    android:weightSum="1">
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar">
+
+    </include>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:background="#01071c">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\nশুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু"
+            android:textColor="@android:color/white"
+            android:padding="7dp"
+            android:textSize="22sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:layout_gravity="center_horizontal">
+
+
+            <ListView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:id="@+id/listView"
+                android:textStyle="bold"
+                android:background="#f27a68"
+                android:layout_gravity="center"
+                android:choiceMode="multipleChoice"
+                android:divider="#000000"
+                android:cacheColorHint="@android:color/background_light"
+                android:dividerHeight="1.5dp"
+                android:clickable="true" />
+        </LinearLayout>
+        <!--android:textSize="28sp"-->
+    </LinearLayout>
+</LinearLayout>

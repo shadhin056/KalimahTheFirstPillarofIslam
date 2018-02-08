@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.shadhin.kalimahthefirstpillarofislam.MainActivity">
+    <item
+        android:id="@+id/About"
+        android:icon="@drawable/men_icon"
+        android:orderInCategory="100"
+        android:title="About"
+
+
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/abc"
+        android:orderInCategory="100"
+        android:title="Home"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/Exit"
+        android:orderInCategory="100"
+        android:title="Exit"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/cross_icon"/>
+
+</menu>

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Kalimah The First Pillar of Islam</string>
+    <string name="action_settings">Settings</string>
+    <string name="titel">KALIMA - The First Pillar of Islam</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_kalima_eshahaadat">KalimaEShahaadatActivity</string>
+    <string name="title_activity_kalimae_tumjeed">KalimaeTumjeedActivity</string>
+    <string name="title_activity_kalimae_tauhid">KalimaeTauhidActivity</string>
+    <string name="title_activity_kalima_rud__a__kuffer">KalimaRud_A_KufferActivity</string>
+    <string name="kalima_rud__a__kuffer">
+        <u><big><b>আরবি: </b></big></u>  اللهم انی اعوذبک من ان یشرک بک شیئا واستغفرک ما اعلم به ومالا اعلم به تبت عنه وتبرأت من الکفر والشرک والمعاصی کلها واسلمت وامنت واقول ان لا اله الا الله محمد رسول الله صلی الله علیه وسلم
+
+       \n \n<u><big><b>বাংলা  উচ্চারণ: </b></big></u>  আল্লাহুম্মাহ ইন্নী আউযুবিকা মিন্ আন্ উশ্রিকা বিকা শাইআওঁ ওয়া আনা আ’লামু বিহী, ওয়া আস্তাগ্ফিরুকা লিমা আ’লামু বিহী, ওয়ামা লা-আ’লামু বিহী, তুব্তু আন্হু ওয়া তাবাররা’তু মিনাল কুফরি ওয়াশ্ শিরকি ওয়াল মায়াছী কুল্লিহা, ওয়া আসলামতু ওয়া আমান্তু ওয়া আক্বুলু আল্লা ইলাহা ইল্লাল্লাহু মুহাম্মাদুর রাসুলুল্লাহি।
+        \n \n<u><big><b>ইংরেজি  উচ্চারণ: </b></big></u>  Allah Humma inni Aaoozubika Min An Oshrika Beka Shai Aown Wa Anaa Aalamo Behi Wa Astaghfiroka Lima laa Aalamo Behi Tubtu Anho Wa Tabarrato Minal Kufri Washshirki Wal Kizbi Wal Jheebati Wal Bidaati Wan Nameemati Wal Fawahishi Wal Bohtani Wal Maasi Kulliha Wa Aslamtoo Wa Aamantoo Wa Aqoolo Laa ilaaha illal Lahoo Mohammadur Rasool Ullah.
+        \n\n <u><big><b>বাংলা অর্থ: </b></big></u> হে আল্লাহ্! আমি তমার নিকট আকাঙ্ক্ষা করছি যে আমি যেন কাউকে তমার সাথে শরিক না করি। আমি আমার জ্ঞাত ও অজ্ঞাত পাপ হতে ক্ষমা প্রার্থনা করছি এবং তা হতে তওবা করছি। কুফরী, শিরক ও অন্যান্য সব পাপ হতে দূরে থাকছি। এবং স্বীকার করছি যে, “আল্লাহ এক আর কোন মাবুদ নেই। হযরত মুহাম্মদ (সঃ) আল্লাহর প্রেরিত রাসূল।
+
+        \n \n<u><big><b>ইংরেজি অর্থ : </b></big></u>     O Allah, surely I do seek refuge in You from knowingly associating any partner with You, I beg Your forgiveness for the sin from which I am not aware of, I repent it and I declare myself free from infidelity, polytheism (associating any partner with Allah), telling lies and all other sins. I accept Islam and believe and declare that there is none worthy of worship besides Allah and Muhammad [sallallaahu alayhi wasallam] is the messenger of Allah.<br></br>
+
+    </string>
+    <string name="myinfo">Kalimah The First Pillar of Islam\n version 1.0\nCopyright ©2015\n
+        Developer :Moniruzzaman Shadhin\n Contact:Shadhinemail@gmail.com</string>
+
+
+    <string name="kalimah_tayyibah">
+        <u><big><b>আরবি: </b></big></u>لآ اِلَهَ اِلّا اللّهُ مُحَمَّدٌ رَسُوُل اللّهِ
+        \n \n<u><big><b>বাংলা  উচ্চারণ: </b></big></u>লা-ইলাহা ইল্লাল্লাহু মুহাম্মাদুর রাসূলুল্লাহ।
+        \n \n<u><big><b>ইংরেজি  উচ্চারণ: </b></big></u>Laa ilaaha illallaahu Muhammadur rasoolullaah
+        \n\n <u><big><b>বাংলা অর্থ: </b></big></u>আল্লাহ এক আর কোন মাবুদ নেই। হযরত মুহাম্মদ (সাঃ) আল্লাহর প্রেরিত রাসূল।
+        \n \n<u><big><b>ইংরেজি অর্থ : </b></big></u>There is none worthy of worship besides Allah, Muhammad [sallallaahu alayhi wasallam] is the messenger of Allah.
+    </string>
+    <string name="kalima_e_shahaadat">
+        <u><big><b>আরবি: </b></big></u>اشْهَدُ انْ لّآ اِلهَ اِلَّا اللّهُ وَحْدَه لَا شَرِيْكَ لَه، وَ اَشْهَدُ اَنَّ مُحَمَّدً اعَبْدُهوَرَسُولُه
+        \n \n<u><big><b>বাংলা  উচ্চারণ: </b></big></u>আশহাদু আল্লা ইলাহা ইল্লাল্লাহু ওয়াহ্দাহু লা শারীকালাহু, ওয়া আশহাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসূলুহু।
+        \n \n<u><big><b>ইংরেজি  উচ্চারণ: </b></big></u>Ash-hadu an-laa ilaaha illallaahu wahdahoo laa shareeka lahoo, wa ash-hadu anna Muhammadan abduhoo wa rasooluh
+        \n\n <u><big><b>বাংলা অর্থ: </b></big></u>আমি সাক্ষ্য প্রদান করছি যে, আল্লাহ্ ব্যতীত অন্য কোন মাবুদ নেই। তিনি এক। তাঁহার কোন অংশীদার নেই, এবং আমি আরও সাক্ষ্য প্রদান করছি যে, নিশ্চয়ই হযরত মুহাম্মদ (সঃ) আল্লাহ্র প্রেরিত বান্দা ও রাসূল।
+        \n \n<u><big><b>ইংরেজি অর্থ : </b></big></u>I bear witness that there is none worthy of worship besides Allah. He is alone. He has no partner, and I bear witness that Muhammad is His servant and messenger.
+    </string>
+<string name="kalimae_tumjeed">
+        <u><big><b>আরবি: </b></big></u>اسُبْحَان لِلّه وَ الْحَمْدُ لِلّهِ وَ لآ اِلهَ اِلّا اللّهُ، وَ اللّهُ اَكْبَرُ وَلا حَوْلَ وَلاَ قُوَّة ِلَّا بِاللّهِ الْعَلِىّ الْعَظِيْم
+
+        \n \n<u><big><b>বাংলা  উচ্চারণ: </b></big></u>সুব্হানাল্লাহি ওয়াল হামদুলিল্লাহি ওয়া লা-ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আক্বার ওয়ালা হাওলা ক্বুয়াতা ইল্লা বিল্লাহিল্ আলিইল্ আযীম্।
+        \n \n<u><big><b>ইংরেজি  উচ্চারণ: </b></big></u>Subhaanallaahi wal hamdulillaahi wa laa ilaaha illallaahu wallaahu Akbar, wa laa hawla walaa quwwata illaa billaahil aliyyil adheem
+        \n\n <u><big><b>বাংলা অর্থ: </b></big></u>মহিমা ও সকল প্রসংশা আল্লাহ্র জন্য, আল্লাহ ব্যতীত আর কোন উপাস্য নেই। আল্লাহ মহান, সর্বশক্তিমান ও সর্বক্ষমতাবান। আল্লাহ ব্যতীত আর কেউ নয়। তিনিই মহান।
+        \n \n<u><big><b>ইংরেজি অর্থ : </b></big></u>Glory be to Allah. All praise be to Allah. There is none worthy of worship besides Allah and Allah is the Gratest. There is no power and might except from Allah, the Most High, the Great.
+    </string>
+<string name="kalimae_tauhid">
+        <u><big><b>আরবি: </b></big></u>لا الهَ اِلَّا اللّهُ وَحْدَهُ لا شَرِيْكَ لَهْ، لَهُ الْمُلْكُ وَ لَهُ الْحَمْدُ يُحْى وَ يُمِيْتُ وَ هُوَحَىُّ لَّا يَمُوْتُ اَبَدًا اَبَدًا ط ذُو الْجَلَالِ وَ الْاِكْرَامِ ط بِيَدِهِ الْخَيْرُ ط وَهُوَ عَلى كُلِّ شَئ ٍ قَدِيْرٌ ط
+        \n \n<u><big><b>বাংলা  উচ্চারণ: </b></big></u> লা-ইলাহা ইল্লাল্লাহু ওয়াহ্ দাহু লা-সারিকা লা-হু লাহুল মুলকু ওয়া লাহুল হামদু ইউহা ই ওয়া উ মিতু বি ইয়া সি হিল খাইরু ওয়া-হু-ওয়া আ-লা কুল্লি শাইয়িন ক্বাদীর।
+        \n \n<u><big><b>ইংরেজি  উচ্চারণ: </b></big></u>Laa ilaaha illallaahu wahdahoo laa shareeka lah. Lahul mulk, wa lahul hamd, yuhyiy wa yumeet biyadihil khayr wa huwa alaa kulli shay-in qadeer
+        \n\n <u><big><b>বাংলা অর্থ: </b></big></u>আল্লাহ এক আর কোন মাবুদ নেই তিনি এক তার কোন অংশীদার নেই। সমস্ত সৃষ্টি জগৎ এবং সকল প্রশংসা তাঁরই। তিনি জীবন হান করেন আবার তিনিই মৃত্যুর কারণ তার হাতেই সব ভাল কিছু এবং তিনিই সৃষ্টির সবকিছুর উপর ক্ষমতাবান।
+        \n \n<u><big><b>ইংরেজি অর্থ : </b></big></u>There is none worthy of worship besides Allah who is alone. He has no partner. For him is the Kingdom, and for Him is all praise. He gives life and causes death. In His hand is all good. And He has power over everything.
+    </string>
+
+</resources>
